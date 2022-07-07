@@ -1,0 +1,28 @@
+{
+ "gastos": [
+  {
+   "id": "71db58",
+   "roommate": "Orlando Solorzano",
+   "descripcion": "gas",
+   "monto": 15000
+  },
+  {
+   "id": "ec2a9f",
+   "roommate": "Elizabeth Cooper",
+   "descripcion": "luz",
+   "monto": 15000
+  },
+  {
+   "id": "8fa85d",
+   "roommate": "Iina Wiita",
+   "descripcion": "agua",
+   "monto": 15000
+  },
+  {
+   "id": "dc8379",
+   "roommate": "Omar Melo",
+   "descripcion": "Telefono",
+   "monto": 15000
+  }
+ ]
+}
